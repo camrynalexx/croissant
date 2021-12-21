@@ -1,0 +1,22 @@
+body {
+    margin: 8px;
+}
+
+h1 {
+    margin: 21px 0 21px;
+    text-align: center;
+}
+
+p {
+    margin: 16px 0 16px;
+    text-align: center;
+}
+
+.page-links {
+    text-align: center;
+}
+
+.page-links a  {
+    margin: 0 10px;
+    color: pink;
+}
