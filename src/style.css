@@ -12,11 +12,19 @@ p {
     text-align: center;
 }
 
-.page-links {
+footer {
     text-align: center;
 }
 
-.page-links a  {
+footer a {
     margin: 0 10px;
     color: pink;
 }
+
+.croissant-image {
+    max-width: 100%;
+    border-radius: 10px;
+    display: block;
+    margin: 30px auto;
+}
+
